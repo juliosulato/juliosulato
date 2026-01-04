@@ -45,7 +45,7 @@ SaaS voltado para a gestão administrativa, financeira e operacional de escolas 
 - **Back-End:** Node.js, APIs REST
 - **Banco de Dados:** PostgreSQL, Redis (cache e suporte a performance)
 - **Infra:** Docker, Docker Compose, Nginx
-- **Outros:** Git, GitHub, Zod, SWR
+- **Outros:** Git, GitHub, Zod, SWR, Jest
 
 
 
