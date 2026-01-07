@@ -57,7 +57,7 @@ Tenho perfil autodidata, foco em organização e gosto de evoluir código existe
 Atualmente buscando oportunidades como **Desenvolvedor Front-End**, onde eu possa gerar impacto técnico e crescer junto com o time.
 
 ## 🎓 Formação Acadêmica
-- **Bacharelado em Engenharia de Software** — Universidade Cruzeiro do Sul  
+- **Bacharelado em Engenharia de Software** — Universidade de Franca  
   *Início em 2026 — em andamento*
   
 ---
