@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Julio Sulato
 
-Sou **Desenvolvedor Front-End** com cerca de **3.5 anos de experiência prática**, especializado no ecossistema **React, Next.js e TypeScript**, com foco em construir aplicações modernas, escaláveis e bem organizadas.
+Sou **Desenvolvedor Full-Stack** com cerca de **3.5 anos de experiência prática**, especializado no ecossistema **React, Next.js, Node.js e TypeScript**, com foco em construir aplicações modernas, escaláveis e bem organizadas.
 
 Atuo com desenvolvimento de produtos reais, incluindo um **SaaS em desenvolvimento ativo**, participando de todo o ciclo: arquitetura, implementação, refatoração e evolução contínua.
 
@@ -42,8 +42,8 @@ SaaS voltado para a gestão administrativa, financeira e operacional de escolas 
 ## 🛠️ Tecnologias
 - **Front-End:** React, Next.js, TypeScript, JavaScript, HTML, CSS
 - **UI:** Mantine, Material UI
-- **Back-End:** Node.js, APIs REST
-- **Banco de Dados:** PostgreSQL, Redis (cache e suporte a performance)
+- **Back-End:** Node.js, Express, APIs REST
+- **Banco de Dados:** PostgreSQL, Redis (cache e suporte a performance), Prisma ORM
 - **Infra:** Docker, Docker Compose, Nginx
 - **Outros:** Git, GitHub, Zod, SWR, Jest
 
