@@ -54,7 +54,7 @@ SaaS voltado para a gestão administrativa, financeira e operacional de escolas 
 ## 📌 Sobre mim
 Tenho perfil autodidata, foco em organização e gosto de evoluir código existente, não apenas criar do zero. Valorizo boas práticas, clareza e soluções simples para problemas reais.
 
-Atualmente buscando oportunidades como **Desenvolvedor Front-End**, onde eu possa gerar impacto técnico e crescer junto com o time.
+Atualmente buscando oportunidades como **Desenvolvedor Full-Stack** ou **Front-End**, onde eu possa gerar impacto técnico e crescer junto com o time.
 
 ## 🎓 Formação Acadêmica
 - **Bacharelado em Engenharia de Software** — Universidade de Franca  
