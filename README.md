@@ -25,7 +25,7 @@ Atuo com desenvolvimento de produtos reais, incluindo um **SaaS em desenvolvimen
 
 ## 🧩 Projeto em destaque
 
-### 💃 AIX Dance — Sistema de Gestão para Escolas de Dança
+### 💃 AIX Dance (Front-End) — Sistema de Gestão para Escolas de Dança
 SaaS voltado para a gestão administrativa, financeira e operacional de escolas de dança.
 
 **Principais pontos técnicos:**
@@ -36,6 +36,23 @@ SaaS voltado para a gestão administrativa, financeira e operacional de escolas 
 - Código em constante evolução com foco em qualidade e escalabilidade
 
 👉 Repositório: [AIX Dance](https://github.com/juliosulato/aix-dance)
+
+
+### ⛅ Weather API - Consulta e Histórico de Dados Climáticos
+API RESTful desenvolvida com Node.js, TypeScript e PostgreSQL, pronta para produção. Permite consultar dados climáticos em tempo real e mantém um histórico completo das consultas.
+
+Destaques:
+- Integração com OpenWeatherMap para dados em tempo real
+- Cache inteligente em memória (5 min) para reduzir latência e consumo da API externa
+- Persistência completa das consultas em PostgreSQL
+- Validação rigorosa com Zod, incluindo variáveis de ambiente
+- Docker + Docker Compose para ambiente completo e fácil de rodar
+- Pipeline CI/CD com GitHub Actions para lint, testes e build
+- Documentação automática via Swagger UI
+
+Stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Actions, Swagger
+
+👉 Repositório: [Weather API](https://github.com/juliosulato/weather-api-node-postgres)
 
 ---
 
