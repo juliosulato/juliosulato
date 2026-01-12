@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedor Full-Stack** com cerca de **3.5 anos de experiência prática**, especializado no ecossistema **React, Next.js, Node.js e TypeScript**, com foco em construir aplicações modernas, escaláveis e bem organizadas.
 
-Atuo com desenvolvimento de produtos reais, incluindo um **SaaS em desenvolvimento ativo**, participando de todo o ciclo: arquitetura, implementação, refatoração e evolução contínua.
+Atuo com desenvolvimento de produtos reais, incluindo um **ERP em desenvolvimento ativo**, participando de todo o ciclo: arquitetura, implementação, refatoração e evolução contínua.
 
 ---
 
@@ -65,14 +65,12 @@ Stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Act
 - **Infra:** Docker, Docker Compose, Nginx
 - **Outros:** Git, GitHub, Zod, SWR, Jest
 
-
-
 ---
 
 ## 📌 Sobre mim
 Tenho perfil autodidata, foco em organização e gosto de evoluir código existente, não apenas criar do zero. Valorizo boas práticas, clareza e soluções simples para problemas reais.
 
-Atualmente buscando oportunidades como **Desenvolvedor Full-Stack** ou **Front-End**, onde eu possa gerar impacto técnico e crescer junto com o time.
+Atualmente buscando oportunidades como **Desenvolvedor Full-Stack** ou Front-end/Back-end, onde eu possa gerar impacto técnico e crescer junto com o time.
 
 ## 🎓 Formação Acadêmica
 - **Bacharelado em Engenharia de Software** — Universidade de Franca  
