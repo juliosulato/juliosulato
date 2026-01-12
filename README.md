@@ -8,6 +8,7 @@ Atuo com desenvolvimento de produtos reais, incluindo um **SaaS em desenvolvimen
 
 ## 🚀 Foco atual
 - Front-End com **React, Next.js (App Router) e TypeScript**
+- Back-End com **Node.js, Express, TypeScript e Java**
 - Arquitetura limpa, componentização e reutilização
 - Server Components e **Server Actions**
 - Performance, legibilidade e manutenibilidade de código
