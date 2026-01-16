@@ -58,7 +58,7 @@ Stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Act
 ---
 
 ## 🛠️ Tecnologias
-- **Front-End:** React, Next.js, TypeScript, JavaScript, HTML, CSS
+- **Front-End:** React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS
 - **UI:** Mantine, Material UI
 - **Back-End:** Node.js, Express, APIs REST
 - **Banco de Dados:** PostgreSQL, Redis (cache e suporte a performance), Prisma ORM
