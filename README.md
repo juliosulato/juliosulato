@@ -7,7 +7,7 @@ Atuo com desenvolvimento de produtos reais, incluindo um **ERP em desenvolviment
 ---
 
 ## 🚀 Foco atual
-- Front-End com **React, Next.js (App Router) e TypeScript**
+- Front-End com **React, Next.js (App Router), Vue.js, Nuxt e TypeScript**
 - Back-End com **Node.js, Express, TypeScript e Java (iniciando os estudos)**
 - Arquitetura limpa, componentização e reutilização
 - Server Components e **Server Actions**
