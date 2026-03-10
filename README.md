@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Julio Sulato
+# 👋 Hi, I'm Julio Sulato - Full-Stack Developer | React • Next.js • Node.js • TypeScript
 
 I'm a **Full-Stack Developer** with around **3.5 years of hands-on experience**, specialized in the **React, Next.js, Node.js and TypeScript ecosystem**, focused on building modern, scalable and well-structured applications.
 
