@@ -1,83 +1,115 @@
-# 👋 Olá, eu sou o Julio Sulato
+# 👋 Hi, I'm Julio Sulato
 
-Sou **Desenvolvedor Full-Stack** com cerca de **3.5 anos de experiência prática**, especializado no ecossistema **React, Next.js, Node.js e TypeScript**, com foco em construir aplicações modernas, escaláveis e bem organizadas.
+I'm a **Full-Stack Developer** with around **3.5 years of hands-on experience**, specialized in the **React, Next.js, Node.js and TypeScript ecosystem**, focused on building modern, scalable and well-structured applications.
 
-Atuo com desenvolvimento de produtos reais, incluindo um **ERP em desenvolvimento ativo**, participando de todo o ciclo: arquitetura, implementação, refatoração e evolução contínua.
-
----
-
-## 🚀 Foco atual
-- Front-End com **React, Next.js (App Router), Vue.js, Nuxt e TypeScript**
-- Back-End com **Node.js, Express, TypeScript e Java (iniciando os estudos)**
-- Arquitetura limpa, componentização e reutilização
-- Server Components e **Server Actions**
-- Performance, legibilidade e manutenibilidade de código
+I work on real product development, including an **ERP system currently under active development**, participating in the entire lifecycle: architecture, implementation, refactoring and continuous evolution.
 
 ---
 
-## 🧠 Experiência prática
-- Desenvolvimento de **aplicações SaaS**
-- Integração com **APIs REST**
-- Organização de código com **Separation of Concerns**
-- Versionamento com **Git/GitHub**
-- Experiência com **Docker** e ambientes de desenvolvimento padronizados
+# 🚀 Current Focus
+
+- Front-End with **React, Next.js (App Router), Vue.js, Nuxt and TypeScript**
+- Back-End with **Node.js, Express, TypeScript and Java (currently studying)**
+- Clean architecture, componentization and code reuse
+- **Server Components** and **Server Actions**
+- Performance, readability and maintainability
 
 ---
 
-## 🧩 Projeto em destaque
+# 🧠 Practical Experience
 
-### 💃 AIX Dance (Front-End) — Sistema de Gestão para Escolas de Dança
-SaaS voltado para a gestão administrativa, financeira e operacional de escolas de dança.
-
-**Principais pontos técnicos:**
-- Front-end em **React + Next.js + TypeScript**
-- Arquitetura organizada em services, hooks e Server Actions
-- Validação com **Zod**
-- Integração com serviços externos (ex.: AWS S3)
-- Código em constante evolução com foco em qualidade e escalabilidade
-
-👉 Repositório: [AIX Dance](https://github.com/juliosulato/aix-dance)
-
-
-### ⛅ Weather API - Consulta e Histórico de Dados Climáticos
-API RESTful desenvolvida com Node.js, TypeScript e PostgreSQL, pronta para produção. Permite consultar dados climáticos em tempo real e mantém um histórico completo das consultas.
-
-Destaques:
-- Integração com OpenWeatherMap para dados em tempo real
-- Cache inteligente em memória (5 min) para reduzir latência e consumo da API externa
-- Persistência completa das consultas em PostgreSQL
-- Validação rigorosa com Zod, incluindo variáveis de ambiente
-- Docker + Docker Compose para ambiente completo e fácil de rodar
-- Pipeline CI/CD com GitHub Actions para lint, testes e build
-- Documentação automática via Swagger UI
-
-Stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Actions, Swagger
-
-👉 Repositório: [Weather API](https://github.com/juliosulato/weather-api-node-postgres)
+- Development of **SaaS applications**
+- Integration with **REST APIs**
+- Code organization following **Separation of Concerns**
+- Version control with **Git / GitHub**
+- Experience with **Docker** and standardized development environments
 
 ---
 
-## 🛠️ Tecnologias
-- **Front-End:** React, React Native, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Sass
-- **UI:** Mantine, Material UI
-- **Back-End:** Node.js, Express, Java (estudando), APIs REST
-- **Banco de Dados:** PostgreSQL, Redis (cache e suporte a performance), Prisma ORM
-- **Infra:** Docker, Docker Compose, Nginx, AWS, GCP
-- **Outros:** Git, GitHub, Zod, SWR, Jest
+# 🧩 Featured Projects
+
+## 💃 AIX Dance — Management System for Dance Schools
+
+A SaaS platform designed to manage the administrative, financial and operational aspects of dance schools.
+
+**Key technical aspects:**
+
+- Front-end built with **React + Next.js + TypeScript**
+- Organized architecture using services, hooks and Server Actions
+- Validation using **Zod**
+- Integration with external services (e.g. **AWS S3**)
+- Codebase continuously evolving with focus on quality and scalability
+
+*(Private repository)*
 
 ---
 
-## 📌 Sobre mim
-Tenho perfil autodidata, foco em organização e gosto de evoluir código existente, não apenas criar do zero. Valorizo boas práticas, clareza e soluções simples para problemas reais.
+## ⛅ Weather API — Weather Data Query and History
 
-Atualmente buscando oportunidades como **Desenvolvedor Full-Stack** ou Front-end/Back-end, onde eu possa gerar impacto técnico e crescer junto com o time.
+A production-ready RESTful API built with **Node.js, TypeScript and PostgreSQL** that allows real-time weather queries while maintaining a full history of requests.
 
-## 🎓 Formação Acadêmica
-- **Bacharelado em Engenharia de Software** — Universidade de Franca  
-  *Início em 2026 — em andamento*
-  
+### Highlights
+
+- Integration with **OpenWeatherMap** for real-time weather data
+- Smart **in-memory caching (5 minutes)** to reduce latency and external API usage
+- Full persistence of weather queries in **PostgreSQL**
+- Strong validation with **Zod**, including environment variables
+- **Docker + Docker Compose** for a complete and reproducible development environment
+- **CI/CD pipeline with GitHub Actions** for linting, testing and builds
+- Automatic API documentation using **Swagger UI**
+
+### Stack
+
+Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Actions, Swagger
+
+👉 Repository:  
+https://github.com/juliosulato/weather-api-node-postgres
+
 ---
 
-📫 **Contato**
-- LinkedIn: https://www.linkedin.com/in/juliosulato
-- Email: juliosulatofh@gmail.com
+# 🛠️ Technologies
+
+### Front-End
+React, React Native, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Sass
+
+### UI
+Mantine, Material UI
+
+### Back-End
+Node.js, Express, Java (learning), REST APIs
+
+### Databases
+PostgreSQL, Redis (caching and performance support), Prisma ORM
+
+### Infrastructure
+Docker, Docker Compose, Nginx, AWS, GCP
+
+### Other Tools
+Git, GitHub, Zod, SWR, Jest
+
+---
+
+# 📌 About Me
+
+I have a self-taught mindset with a strong focus on code organization and improving existing systems rather than only building things from scratch.
+
+I value clean code, good practices and simple solutions for real-world problems.
+
+Currently looking for opportunities as a **Full-Stack Developer or Front-End/Back-End Developer**, where I can contribute technically and grow together with the team.
+
+---
+
+# 🎓 Education
+
+**Bachelor’s Degree in Software Engineering** — Universidade de Franca  
+*Starting in 2026 — In progress*
+
+---
+
+# 📫 Contact
+
+**LinkedIn**  
+https://www.linkedin.com/in/juliosulato
+
+**Email**  
+juliosulatofh@gmail.com
