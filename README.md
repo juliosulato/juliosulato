@@ -1,115 +1,54 @@
-# 👋 Hi, I'm Julio Sulato - Full-Stack Developer | React • Next.js • Node.js • TypeScript
+# Julio Cesar Sulato Filho
+### Full Stack Developer — Node.js · React · Next.js · TypeScript
 
-I'm a **Full-Stack Developer** with around **3.5 years of hands-on experience**, specialized in the **React, Next.js, Node.js and TypeScript ecosystem**, focused on building modern, scalable and well-structured applications.
+Desenvolvedor Full Stack com 3 anos de experiência construindo e mantendo sistemas em produção.  
+Especializado no ecossistema JavaScript/TypeScript — do backend com Node.js e NestJS ao frontend com React e Next.js.
 
-I work on real product development, including an **ERP system currently under active development**, participating in the entire lifecycle: architecture, implementation, refactoring and continuous evolution.
+Na **MazzaUX**, atuei como desenvolvedor principal e arquitetei um SaaS multi-tenant completo do zero — desde a modelagem de dados com PostgreSQL e Prisma até o deploy em produção com Docker e AWS, atendendo clientes reais dos setores de saúde, educação e fitness.
 
----
-
-# 🚀 Current Focus
-
-- Front-End with **React, Next.js (App Router), Vue.js, Nuxt and TypeScript**
-- Back-End with **Node.js, Express, TypeScript and Java (currently studying)**
-- Clean architecture, componentization and code reuse
-- **Server Components** and **Server Actions**
-- Performance, readability and maintainability
+Atualmente cursando **Bacharelado em Engenharia de Software** na Universidade de Franca (início fev. 2026).
 
 ---
 
-# 🧠 Practical Experience
+## Stack principal
 
-- Development of **SaaS applications**
-- Integration with **REST APIs**
-- Code organization following **Separation of Concerns**
-- Version control with **Git / GitHub**
-- Experience with **Docker** and standardized development environments
+**Frontend**  
+JavaScript (ES6+), TypeScript, React, Next.js (App Router), Vue.js, HTML5, CSS3, TailwindCSS, Bootstrap
 
----
+**Backend**  
+Node.js, Express, NestJS, REST API
 
-# 🧩 Featured Projects
+**Banco de dados**  
+PostgreSQL, Redis, Prisma ORM
 
-## 💃 AIX Dance — Management System for Dance Schools
+**Infraestrutura**  
+Docker, Docker Compose, AWS S3, CI/CD, GitHub Actions
 
-A SaaS platform designed to manage the administrative, financial and operational aspects of dance schools.
-
-**Key technical aspects:**
-
-- Front-end built with **React + Next.js + TypeScript**
-- Organized architecture using services, hooks and Server Actions
-- Validation using **Zod**
-- Integration with external services (e.g. **AWS S3**)
-- Codebase continuously evolving with focus on quality and scalability
-
-*(Private repository)*
+**Outros**  
+Git, GitHub, Jest, Zod, SEO técnico, Acessibilidade (WCAG)
 
 ---
 
-## ⛅ Weather API — Weather Data Query and History
+## Projetos em destaque
 
-A production-ready RESTful API built with **Node.js, TypeScript and PostgreSQL** that allows real-time weather queries while maintaining a full history of requests.
+### Weather API — API REST com histórico de consultas
+API RESTful em produção para consulta de dados climáticos em tempo real com persistência completa do histórico de requisições.
 
-### Highlights
+**Destaques técnicos:**
+- Integração com OpenWeatherMap para dados em tempo real
+- Cache em memória (5 minutos) para redução de latência e consumo de API externa
+- Persistência de todas as consultas em PostgreSQL via Prisma
+- Validação de dados e variáveis de ambiente com Zod
+- Ambiente reproduzível com Docker e Docker Compose
+- Pipeline CI/CD com GitHub Actions — lint, testes e build automatizados
+- Documentação automática via Swagger UI
 
-- Integration with **OpenWeatherMap** for real-time weather data
-- Smart **in-memory caching (5 minutes)** to reduce latency and external API usage
-- Full persistence of weather queries in **PostgreSQL**
-- Strong validation with **Zod**, including environment variables
-- **Docker + Docker Compose** for a complete and reproducible development environment
-- **CI/CD pipeline with GitHub Actions** for linting, testing and builds
-- Automatic API documentation using **Swagger UI**
-
-### Stack
-
-Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Actions, Swagger
-
-👉 Repository:  
-https://github.com/juliosulato/weather-api-node-postgres
+**Stack:** Node.js, TypeScript, Express, PostgreSQL, Prisma, Zod, Docker, GitHub Actions, Swagger  
+🔗 [Repositório](https://github.com/juliosulato/weather-api-node-postgres)
 
 ---
 
-# 🛠️ Technologies
+## Contato
 
-### Front-End
-React, React Native, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Sass
-
-### UI
-Mantine, Material UI
-
-### Back-End
-Node.js, Express, Java (learning), REST APIs
-
-### Databases
-PostgreSQL, Redis (caching and performance support), Prisma ORM
-
-### Infrastructure
-Docker, Docker Compose, Nginx, AWS, GCP
-
-### Other Tools
-Git, GitHub, Zod, SWR, Jest
-
----
-
-# 📌 About Me
-
-I have a self-taught mindset with a strong focus on code organization and improving existing systems rather than only building things from scratch.
-
-I value clean code, good practices and simple solutions for real-world problems.
-
-Currently looking for opportunities as a **Full-Stack Developer or Front-End/Back-End Developer**, where I can contribute technically and grow together with the team.
-
----
-
-# 🎓 Education
-
-**Bachelor’s Degree in Software Engineering** — Universidade de Franca  
-*Starting in 2026 — In progress*
-
----
-
-# 📫 Contact
-
-**LinkedIn**  
-https://www.linkedin.com/in/juliosulato
-
-**Email**  
+[linkedin.com/in/juliosulato](https://www.linkedin.com/in/juliosulato)  
 juliosulatofh@gmail.com
