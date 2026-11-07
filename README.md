@@ -22,8 +22,8 @@ SaaS multi-tenant (PWA) para gestão de igrejas, com front em Next.js e back-end
 - Uso IA generativa no desenvolvimento, com documentação técnica na pasta `docs/` do repositório, comandos customizados e revisão rigorosa de todo código gerado
 - Reviso PRs de um desenvolvedor júnior e escrevo as especificações técnicas que alinham front e back
 
-**MazzaUX — Founder e Desenvolvedor Full Stack** · 2024 – 2026
-Agência onde desenvolvi sistemas web e APIs de ponta a ponta para clientes de diferentes segmentos: gestão de clínica médica, plataforma LMS para escola de powerlifting e sistemas administrativos para empresas das áreas jurídica e de gestão empresarial. Do levantamento de requisitos ao deploy e à manutenção.
+**MazzaUX — Desenvolvedor Full Stack** · 2024 – 2026
+Software house onde desenvolvi sistemas web e APIs de ponta a ponta para clientes de diferentes segmentos: gestão de clínica médica, plataforma LMS para escola de powerlifting e sistemas administrativos para empresas das áreas jurídica e de gestão empresarial. Do levantamento de requisitos ao deploy e à manutenção.
 
 ---
 
