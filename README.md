@@ -44,7 +44,7 @@ Agência onde desenvolvi sistemas web e APIs de ponta a ponta para clientes de d
 
 ## 📌 Projetos
 
-### Fluvi · 🚧 em desenvolvimento · 🔒 repositório privado
+### [Fluvi](https://github.com/juliosulato/fluvi-monorepo) · 🚧 em desenvolvimento
 Aplicativo de monitoramento de **hidratação e peso**, projeto pessoal desenvolvido de ponta a ponta.
 
 - App mobile em **React Native com Expo**
